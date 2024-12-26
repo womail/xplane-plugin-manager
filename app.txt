@@ -1,0 +1,2 @@
+Description: This is an app to manage X-Plane Plugins. Select the main X-Plane folder and your backup folder and begin managing.
+Application: Plugin-App.py
